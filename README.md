@@ -1,6 +1,6 @@
 # 🛒 Timcheh
 
-An innovative project designed to enhance the user experience in online marketplaces. Timcheh offers powerful features like product catalog management, user reviews, and secure payment integration, tailored for modern e-commerce platforms.
+An innovative project designed to enhance the user experience in online marketplaces. Timcheh offers powerful features like product catalog management, user reviews, secure payment integration and tailored for modern e-commerce platforms.
 
 ---
 
